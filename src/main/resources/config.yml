@@ -1,0 +1,6 @@
+#Do not change this!
+config-version: 1.0.0
+
+#One world for claiming.
+claim-world: "world"
+

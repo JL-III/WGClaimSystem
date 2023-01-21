@@ -5,3 +5,8 @@ api-version: 1.19
 depend: [WorldGuard]
 commands:
   claim:
+    description: "A player command used to claim a chunk"
+    usage: /claim
+  wgclaim:
+    description: "Reload the file configuration"
+    usage: /wgclaim reload
