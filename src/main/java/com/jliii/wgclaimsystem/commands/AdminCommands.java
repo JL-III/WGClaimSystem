@@ -1,5 +1,6 @@
 package com.jliii.wgclaimsystem.commands;
 
+import com.sk89q.worldguard.bukkit.WorldGuardPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.block.CommandBlock;

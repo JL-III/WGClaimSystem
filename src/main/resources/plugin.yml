@@ -2,7 +2,7 @@ name: WGClaimSystem
 version: '${project.version}'
 main: com.jliii.wgclaimsystem.WGClaimSystem
 api-version: 1.19
-depend: [WorldGuard]
+depend: [WorldGuard, WorldEdit]
 commands:
   claim:
     description: "A player command used to claim a chunk"
