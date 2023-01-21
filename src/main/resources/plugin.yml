@@ -1,0 +1,7 @@
+name: WGClaimSystem
+version: '${project.version}'
+main: com.jliii.wgclaimsystem.WGClaimSystem
+api-version: 1.19
+depend: [WorldGuard]
+commands:
+  claim:
